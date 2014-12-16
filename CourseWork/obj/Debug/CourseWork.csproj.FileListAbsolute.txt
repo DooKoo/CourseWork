@@ -1,0 +1,16 @@
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\CourseWork\bin\Debug\ISCore.dll
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\CourseWork\bin\Debug\ISCore.pdb
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\CourseWork\bin\Debug\ISCore.dll
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\CourseWork\bin\Debug\ISCore.pdb
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache

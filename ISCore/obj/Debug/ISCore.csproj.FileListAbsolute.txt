@@ -1,0 +1,10 @@
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\ISCore\obj\Debug\ISCore.csprojResolveAssemblyReference.cache
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\ISCore\bin\Debug\ISCore.dll
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\ISCore\bin\Debug\ISCore.pdb
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\ISCore\obj\Debug\ISCore.dll
+E:\NAU\2 course\ООП\КУРСАЧ\CourseWork\ISCore\obj\Debug\ISCore.pdb
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\ISCore\bin\Debug\ISCore.dll
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\ISCore\bin\Debug\ISCore.pdb
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\ISCore\obj\Debug\ISCore.dll
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\ISCore\obj\Debug\ISCore.pdb
+C:\Users\Shevchuk\Desktop\НАУ\КУРСАЧ\CourseWork\ISCore\obj\Debug\ISCore.csprojResolveAssemblyReference.cache
